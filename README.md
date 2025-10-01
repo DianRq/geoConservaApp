@@ -59,6 +59,8 @@ PreparedStatement stmt = conn.prepareStatement("SELECT * FROM projects WHERE typ
 stmt.setString(1, "conservation");
 ResultSet rs = stmt.executeQuery();
 ```
+## Screenshots
+![App Screenshot](./GeoConservaCuitzeo.jpg)
 ## Support
 
 For support, email diana.rios.tc@gmail.com
