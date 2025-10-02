@@ -1,4 +1,12 @@
 # geoConservaApp 🌍
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-4A90E2?style=for-the-badge&logo=window&logoColor=white)
+![GeoTools](https://img.shields.io/badge/GeoTools-0052CC?style=for-the-badge&logo=openstreetmap&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Desktop App](https://img.shields.io/badge/Desktop_App-0088CC?style=for-the-badge&logo=desktop&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 geoConservaApp is a desktop application tailored for environmental and conservation initiatives.  
 It integrates **spatial data visualization**, **database management**, and **interactive UI** using Java.  
@@ -35,6 +43,8 @@ The project leverages **GeoTools**, **PostGIS**, and additional libraries to man
 1. Clone the repository:
    ```bash
    git clone https://github.com/DianRq/geoConservaApp.git
+   cd geoConservaApp
+   ```
 2. Add required libraries to /lib folder:
 - `geotools-*.jar`
 - `postgresql-*.jar`
@@ -64,4 +74,5 @@ ResultSet rs = stmt.executeQuery();
 ## Support
 
 For support, email diana.rios.tc@gmail.com
-- LinkedIn [Diana Rios Quiroz](www.linkedin.com/in/diana-rios-quiroz-a77606365) 
+- LinkedIn [Diana Rios Quiroz](www.linkedin.com/in/diana-rios-quiroz-a77606365)
+
